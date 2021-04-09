@@ -1,4 +1,0 @@
-com/jlailu/backend/HelloApplication.java
- com.jlailu.backend.HelloApplication
-com/jlailu/backend/HelloResource.java
- com.jlailu.backend.HelloResource
