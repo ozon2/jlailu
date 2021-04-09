@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31e7ad8f-5c2a-4f1c-b854-159844338aa8" name="Default Changelist" comment="fichiers en trop">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/lib/jlailu.lib.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/lib/jlailu.lib.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/lib/jlailu.lib.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/projet-appli-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="31e7ad8f-5c2a-4f1c-b854-159844338aa8" name="Default Changelist" comment="fichiers de config intellij">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +57,11 @@
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="/opt/wildfly/standalone/deployments" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Build Variants" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2551724" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="android.project.structure" />
+    <property name="settings.editor.splitter.proportion" value="0.32045928" />
   </component>
   <component name="RunManager" selected="JBoss/WildFly Server.JBoss/WildFly 22.0.1.Final">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
@@ -181,7 +172,7 @@
       <workItem from="1617958452333" duration="1000000" />
       <workItem from="1617959770194" duration="285000" />
       <workItem from="1617960164854" duration="1316000" />
-      <workItem from="1617964532102" duration="1558000" />
+      <workItem from="1617964532102" duration="2290000" />
     </task>
     <task id="LOCAL-00001" summary="fichiers en trop">
       <created>1617964789372</created>
@@ -190,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617964789372</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fichiers de config intellij">
+      <created>1617966099726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617966099726</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +209,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fichiers en tros" />
     <MESSAGE value="fichiers en trop" />
-    <option name="LAST_COMMIT_MESSAGE" value="fichiers en trop" />
+    <MESSAGE value="fichiers de config intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="fichiers de config intellij" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

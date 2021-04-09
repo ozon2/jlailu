@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.smallrye.common:smallrye-common-expression:1.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.smallrye.common/smallrye-common-expression/1.5.0/7abbf56d3351467be41b9065ccff36a03e2ef8b3/smallrye-common-expression-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.smallrye.common/smallrye-common-expression/1.5.0/a0ced2990a73b22d7af75fbcd84a22e65c088025/smallrye-common-expression-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

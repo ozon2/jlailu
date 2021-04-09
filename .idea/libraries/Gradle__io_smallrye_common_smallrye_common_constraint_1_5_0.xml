@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.smallrye.common:smallrye-common-constraint:1.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.smallrye.common/smallrye-common-constraint/1.5.0/f00fa70282ca30369c8e6894a9a98211040df96e/smallrye-common-constraint-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.smallrye.common/smallrye-common-constraint/1.5.0/586985d4865b6b637c676df0f0890b4e0456d179/smallrye-common-constraint-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
