@@ -15,4 +15,5 @@ frontend/yarn-error.log*
 
 backend/build
 backend/.gradle
+backend/out
 .idea
