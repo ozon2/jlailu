@@ -18,6 +18,7 @@ Après avoir cloné le repo, il faut ouvrir le dossier `jlailu` dans intellij-id
 ```bash
 git clone git@git.inpt.fr:pillott/jlailu.git
 ```
+Faire un clic droit sur `backend/build.gradle` et faire `Import project`.
 Il y a déjà une configuration nommée `JBoss` installée. Il faut l'éditer et changer `Application server` pour qu'il pointe
 vers `/opt/wildly`.
 
