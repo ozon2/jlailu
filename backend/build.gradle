@@ -3,8 +3,10 @@ plugins {
     id 'war'
 }
 
-group 'com.jlailu'
-version '1.0-SNAPSHOT'
+war {
+    archiveName 'backend.war'
+    destinationDirectory = layout.buildDirectory.dir('/opt/wildfly/standalone/deployments')
+}
 
 repositories {
     mavenCentral()

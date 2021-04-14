@@ -9,14 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31e7ad8f-5c2a-4f1c-b854-159844338aa8" name="Default Changelist" comment="fichiers de config intellij">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_jlailu___backend_1_0_SNAPSHOT_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_jlailu___backend_1_0_SNAPSHOT_war__exploded_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/projet-appli-web.iml" beforeDir="false" />
+    <list default="true" id="31e7ad8f-5c2a-4f1c-b854-159844338aa8" name="Default Changelist" comment="ajout d'un readme et déploiement jboss qui marche">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/backend.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/backend.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/backend.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/backend.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/backend/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="/tmp/jlailu" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -71,10 +69,22 @@
     <property name="settings.editor.splitter.proportion" value="0.32045928" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JBoss" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 22.0.1.Final" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="11">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/backend/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="backend">
+        <artifact name="Gradle : backend.war">
           <settings />
         </artifact>
       </deployment>
@@ -138,21 +148,8 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="backend" />
+          <artifact name="Gradle : backend.war" />
         </option>
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="projet-appli-web" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -170,7 +167,8 @@
       <workItem from="1617964532102" duration="2290000" />
       <workItem from="1618384032276" duration="592000" />
       <workItem from="1618384798055" duration="2442000" />
-      <workItem from="1618387244917" duration="103000" />
+      <workItem from="1618387244917" duration="296000" />
+      <workItem from="1618388264471" duration="284000" />
     </task>
     <task id="LOCAL-00001" summary="fichiers en trop">
       <created>1617964789372</created>
@@ -186,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617966099726</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ajout d'un readme et déploiement jboss qui marche">
+      <created>1618387379628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618387379628</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +213,8 @@
     <MESSAGE value="fichiers en tros" />
     <MESSAGE value="fichiers en trop" />
     <MESSAGE value="fichiers de config intellij" />
-    <option name="LAST_COMMIT_MESSAGE" value="fichiers de config intellij" />
+    <MESSAGE value="ajout d'un readme et déploiement jboss qui marche" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout d'un readme et déploiement jboss qui marche" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
