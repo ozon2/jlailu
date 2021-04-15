@@ -25,3 +25,15 @@ vers `/opt/wildly`.
 Lancez cette configuration et allez sur [http://localhost:8080/backend/api/hello-world](http://localhost:8080/backend/api/hello-world),
 si ça fonctionne vous devez voir `Hello, World!`.
 
+### Frontend
+
+Pour installer les dépendances :
+```bash
+cd frontend
+npm install
+```
+
+Pour lancer le frontend :
+```bash
+npm start
+```
