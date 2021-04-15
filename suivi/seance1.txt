@@ -1,0 +1,23 @@
+Groupe : Coqueret-Duvignac-Pillot-Rivola
+Projet : Un forum
+Nom : Jlailu.com
+
+Sujet de la séance : Définition du sujet
+
+On a choisi nos entités pour notre forum. Nous avons aussi choisi le modèle économique.
+Différentes Entités :
+        - Compte
+        - Sous-forum
+        - Drapeau/Marqueur (Tag)
+        - Rôle
+        - Conversation Privée
+        - Groupe : (regroupement de compte)
+        - Poteau (post de forum)
+        - Commentaire (sur un post)
+        - Récompense
+        - Monnaie - Virtuelle (pour différents avantages)
+Modèle économique:
+        - Abonnement (divers et variés)
+        - Achat de la monnaie virtuelle pour différents avantages
+
+Prochaine Séance : Choix et Spécification de l’architecture.
